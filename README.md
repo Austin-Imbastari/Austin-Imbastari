@@ -34,4 +34,4 @@ I'm Austin Imbastari, a full stack web developer. I'm really excited to keep lea
 
 ## ⚡ GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Austin-Imbastari&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=Austin-Imbastari&theme=radical&show_icons=true">
