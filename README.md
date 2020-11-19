@@ -1,3 +1,5 @@
+![download](https://user-images.githubusercontent.com/55529532/99728848-e748a900-2a6e-11eb-9ebd-327349f1576a.png)
+
 ### Hi there 👋
 
 - 🛸 Learning everyday, currently learning to master React.js JavaScript
@@ -34,4 +36,4 @@ I'm Austin Imbastari, a full stack web developer. I'm really excited to keep lea
 
 ## ⚡ GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Austin-Imbastari&theme=radical&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=Austin-Imbastari&theme=yeblu&show_icons=true">
