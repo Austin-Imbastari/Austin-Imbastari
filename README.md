@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 - 🛸 Learning everyday, currently learning to master React.js JavaScript
-- 📚 Stack - React, Node.js, JavaScript, CSS3, HTML5, Express
+- 📚 Favorites - React, Node.js, JavaScript, CSS3, HTML5, Express
 - 😄 Open to learning anything and everything!
 
 ### Languages and Tools:
