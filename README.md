@@ -27,7 +27,7 @@
 
 
 ## 🌎 About Me
-I'm Austin Imbastari, a full stack web developer. I'm really excited to keep learning and master my skills as a developer. I'm currently working on a full stack mobile first Real Estate application. 
+I'm Austin Imbastari, a full stack web developer. I'm really excited to keep learning and master my skills as a developer. Currently working on algorithimic data structures.  
 
 ## 📫 Let's connect!
 - [Portfolio]()
