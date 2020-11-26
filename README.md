@@ -30,7 +30,7 @@
 I'm Austin Imbastari, a full stack web developer. I'm really excited to keep learning and master my skills as a developer. Currently working on algorithimic data structures.  
 
 ## 📫 Let's connect!
-- [Portfolio]()
+- [Portfolio](https://austinimbastari.com/)
 - [LinkedIn](https://www.linkedin.com/in/austin-imbastari/)
 
 ## ⚡ GitHub Stats
