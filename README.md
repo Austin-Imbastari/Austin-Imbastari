@@ -1,4 +1,4 @@
-![download](https://user-images.githubusercontent.com/55529532/99728848-e748a900-2a6e-11eb-9ebd-327349f1576a.png)
+![download](https://user-images.githubusercontent.com/55529532/167979247-b87e92af-625c-4f72-a8a8-d2f55dea4f5c.png)
 
 ### Hello There! 👋
 
@@ -6,7 +6,8 @@
 - 📚  Favorites - React, Node.js, JavaScript, CSS3, HTML5, Express
 - 😄  Open to learning anything and everything!
 
-### Languages & Tools:
+### Languages & Tools:![Austin Imbastari (3)]
+
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
