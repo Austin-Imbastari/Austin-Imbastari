@@ -31,7 +31,3 @@ I'm Austin Imbastari, a frontend dev. I'm really excited to keep learning and ma
 ## 📫 Let's connect!
 - [Portfolio](https://austinimbastari.com/)
 - [LinkedIn](https://www.linkedin.com/in/austin-imbastari/)
-
-## ⚡ GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Austin-Imbastari&theme=highcontrast&show_icons=true">
