@@ -3,7 +3,7 @@
 ### Hello There! 👋
 
 - 🛸  Learning everyday, currently learning webgl
-- 📚  Favorites - React, Node.js, JavaScript, CSS3, HTML5, Express
+- 📚  Favorites - React, JavaScript, Webgl, CSS3, HTML5,
 - 😄  Open to learning anything and everything!
 
 ### Languages & Tools:
