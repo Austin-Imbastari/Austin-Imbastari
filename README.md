@@ -2,7 +2,7 @@
 
 ### Hello There! 👋
 
-- 🛸  Learning everyday, currently learning to master React.js JavaScript
+- 🛸  Learning everyday, currently learning webgl
 - 📚  Favorites - React, Node.js, JavaScript, CSS3, HTML5, Express
 - 😄  Open to learning anything and everything!
 
