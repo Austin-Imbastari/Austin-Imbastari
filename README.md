@@ -28,5 +28,5 @@
 ## 🌎 About Me
 I'm Austin Imbastari, a frontend dev. I'm really excited to keep learning and master my skills as a developer. Currently working on building beautiful UI/UX.
 ## 📫 Let's connect!
--[Portfolio](https://cute-macaron-c7cdfa.netlify.app/)
+- [Portfolio](https://cute-macaron-c7cdfa.netlify.app/)
 - [LinkedIn](https://www.linkedin.com/in/austin-imbastari/)
